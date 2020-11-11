@@ -1,5 +1,5 @@
 # affective_climate_change
-Repository for paper titled - "Affective Polarization in Online Climate ChangeDiscourse on Twitter"
+Repository for paper titled - "Affective Polarization in Online Climate Change Discourse on Twitter"
 
 
 ## Stance Results Validation
@@ -53,4 +53,4 @@ windstorm
 
 
 ### References
-S.  Kumar,  “Social  media  analytics  for  stance  mining  a  multi-modalapproach  with  weak  supervision,”  Ph.D.  dissertation,  Carnegie  MellonUniversity, 2020.
+S.  Kumar,  “Social  media  analytics  for  stance  mining  a  multi-modalapproach  with  weak  supervision,”  Ph.D.  dissertation,  Carnegie  Mellon University, 2020.
